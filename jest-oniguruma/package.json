@@ -1,0 +1,13 @@
+{
+  "name": "jest-marky-markdown",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "jest --watch"
+  },
+  "dependencies": {
+    "jest": "20.0.4",
+    "oniguruma": "6.2.1"
+  }
+}
